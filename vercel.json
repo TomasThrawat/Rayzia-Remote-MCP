@@ -1,1 +1,1 @@
-{"version":2,"functions":{"api/*.js":{"maxDuration":300,"runtime":"nodejs24.x"}}}
+{"version":2,"functions":{"api/*.js":{"maxDuration":300}}}
